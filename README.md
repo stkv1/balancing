@@ -12,7 +12,7 @@
 
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-![text](https://github.com/stkv1/balancing/blob/main/img/03.PNG)
+![text](https://github.com/stkv1/balancing/blob/main/img/07.PNG)
 
 ## Задание 2
 
@@ -24,7 +24,9 @@ HAproxy должен балансировать только тот http-тра�
 
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
-![text](https://github.com/stkv1/balancing/blob/main/img/07.PNG)
+![text](https://github.com/stkv1/balancing/blob/main/img/13.PNG)
+
+![text](https://github.com/stkv1/balancing/blob/main/img/03.PNG)
 
 ![text](https://github.com/stkv1/balancing/blob/main/img/16.PNG)
 
